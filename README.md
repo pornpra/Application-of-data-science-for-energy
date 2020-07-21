@@ -1,2 +1,1 @@
-# ton
-NSC2020
+Support by NSC2020
